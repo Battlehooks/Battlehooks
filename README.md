@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Battlehooks
-I’m interested in Machine Learning and currently learning one.
-You can reach me at rizkyk592@gmail.com
+<h1>Rizky Anugrah Ananto</h1>
+<h1>Part-Time Data Analytics at DemandLane</h1>
